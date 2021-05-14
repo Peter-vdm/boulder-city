@@ -31,8 +31,8 @@
        <header>
            <nav>
             <div class="row">
-                 <img src="resources/img/logo-bouldern.png" alt="Bouldern Logo" class="logo">
-                 <img src="resources/img/logo-bouldern.png" alt="Bouldern Logo" class="logo-black">
+                 <img src="logo-bouldern.png" alt="Bouldern Logo" class="logo">
+                 <img src="logo-bouldern.png" alt="Bouldern Logo" class="logo-black">
                  <ul class="main-nav js--main-nav">
                     <li> <a href="#features">Über Boulder City</a></li>               
                     <li> <a href="#works">Wie es funktioniert</a></li>
@@ -103,22 +103,22 @@
             <ul class="bouldern-showcase">
                 <li>
                     <figure class="bouldern-photo">
-                        <img src="resources/img/bouldern-frau.jpg" alt="Bouldern Frau">
+                        <img src="bouldern-frau.jpg" alt="Bouldern Frau">
                     </figure>
                 </li>
                 <li>
                     <figure class="bouldern-photo">
-                        <img src="resources/img/bouldern-gruppe.jpg" alt="Bouldern Gruppe">
+                        <img src="bouldern-gruppe.jpg" alt="Bouldern Gruppe">
                     </figure>
                 </li>
                 <li>
                     <figure class="bouldern-photo">
-                        <img src="resources/img/bouldern-halle.jpg" alt="Bouldern Halle">
+                        <img src="bouldern-halle.jpg" alt="Bouldern Halle">
                     </figure>
                 </li>
                 <li>
                     <figure class="bouldern-photo">
-                        <img src="resources/img/bouldern-kinder.jpg" alt="Bouldern Kinder">
+                        <img src="bouldern-kinder.jpg" alt="Bouldern Kinder">
                     </figure>
                 </li>
             </ul>
@@ -133,7 +133,7 @@
         </div>
         <div class="row">
             <div class="col span-1-of-2 steps-box">
-                <img src="resources/img/samsung-app.jpg" alt="Boulder-City App" class="app-screen">
+                <img src="samsung-app.jpg" alt="Boulder-City App" class="app-screen">
             </div>
             <div class="col span-1-of-2 steps-box">
                 <div class="works-step">
@@ -148,8 +148,8 @@
                     <div>3</div>
                     <p>Komme zu uns und Starte :-)</p>
                 </div>                    
-                <a href="#" class="btn-app"><img src="resources/img/download-app.svg" alt="App Store Button"></a>
-                <a href="#" class="btn-app"><img src="resources/img/download-app-android.png" alt="Play Store Button"></a>   
+                <a href="#" class="btn-app"><img src="download-app.svg" alt="App Store Button"></a>
+                <a href="#" class="btn-app"><img src="download-app-android.png" alt="Play Store Button"></a>   
                 </div>
             </div>        
         
@@ -161,7 +161,7 @@
             </div>
             <div class="row">
                 <div class="col span-1-of-4 box">
-                    <img src="resources/img/koeln.jpg" alt="Köln">
+                    <img src="koeln.jpg" alt="Köln">
                     <h3>Köln</h3>
                     <div class="city-feature">
                         <i class="ion-ios-shuffle icon-small"></i>
@@ -175,7 +175,7 @@
                 </div>
                 
                   <div class="col span-1-of-4 box">
-                    <img src="resources/img/berlin.jpg" alt="Berlin">
+                    <img src="berlin.jpg" alt="Berlin">
                     <h3>Berlin</h3>
                     <div class="city-feature">
                         <i class="ion-ios-shuffle icon-small"></i>
@@ -189,7 +189,7 @@
                 </div>
                 
                   <div class="col span-1-of-4 box">
-                    <img src="resources/img/muenchen.jpg" alt="München">
+                    <img src="muenchen.jpg" alt="München">
                     <h3>München</h3>
                     <div class="city-feature">
                         <i class="ion-ios-shuffle icon-small"></i>
@@ -203,7 +203,7 @@
                 </div>
                 
                   <div class="col span-1-of-4 box">
-                    <img src="resources/img/hamburg.jpg" alt="Hamburg">
+                    <img src="hamburg.jpg" alt="Hamburg">
                     <h3>Hamburg</h3>
                     <div class="city-feature">
                         <i class="ion-ios-shuffle icon-small"></i>
@@ -229,21 +229,21 @@
                 <div class="col span-1-of-3">
                 <blockquote>
                    Bin einmal in der Woche in der Boulder-City Köln. Es macht viel Spaß und das Team ist super hilfsbereit.
-                    <cite><img src="resources/img/customer-1.jpg" alt="Alberto Duncan">Alberto Duncan</cite>    
+                    <cite><img src="customer-1.jpg" alt="Alberto Duncan">Alberto Duncan</cite>    
                 </blockquote>
                 </div>
                 
                 <div class="col span-1-of-3">
                 <blockquote>
                     Man lernet bei jedem Besuch neue tolle Leute kennen. Das Team hilft immer und die Angebote sind Top.
-                    <cite><img src="resources/img/customer-2.jpg" alt="Joana Silva">Joana Silva</cite>    
+                    <cite><img src="customer-2.jpg" alt="Joana Silva">Joana Silva</cite>    
                 </blockquote>
                 </div>
                 
                 <div class="col span-1-of-3">
                 <blockquote>
                     Wenn du Bouldern magst, wirst du die Routen in der Boulder-City Hamburg lieben. Immer wieder werde neue Strecken hinzugefügt und alte überarbeitet. Klasse Job macht weiter so.
-                    <cite><img src="resources/img/customer-3.jpg" alt="Milton Chapman">Milton Chapman</cite>    
+                    <cite><img src="customer-3.jpg" alt="Milton Chapman">Milton Chapman</cite>    
                 </blockquote>
                 </div>
             </div> 
