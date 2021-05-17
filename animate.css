@@ -1,0 +1,33 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 500px;
+  margin: 50px auto;
+  color: #444;
+}
+
+h1, h2 { font-weight: 400; }
+p, li { line-height: 23px; }
+a { color: steelBlue; }
+a:not(:hover) { text-decoration: none; }
+
+/*  Uses -prefix-free for cleaner unprefixed CSS
+    http://leaverou.github.com/prefixfree/  */
+
+.fadeIn {
+  opacity: 0;
+  animation: fadeIn 1.8s forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  30% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
